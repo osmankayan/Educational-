@@ -1,0 +1,7 @@
+C:\c# eğitim\NetFramework\NetFramework.S6.D3.HashTableÖdev\bin\Debug\NetFramework.S6.D3.HashTableÖdev.exe.config
+C:\c# eğitim\NetFramework\NetFramework.S6.D3.HashTableÖdev\bin\Debug\NetFramework.S6.D3.HashTableÖdev.exe
+C:\c# eğitim\NetFramework\NetFramework.S6.D3.HashTableÖdev\bin\Debug\NetFramework.S6.D3.HashTableÖdev.pdb
+C:\c# eğitim\NetFramework\NetFramework.S6.D3.HashTableÖdev\obj\Debug\NetFramework.S6.D4.HashTableÖdev.csprojAssemblyReference.cache
+C:\c# eğitim\NetFramework\NetFramework.S6.D3.HashTableÖdev\obj\Debug\NetFramework.S6.D4.HashTableÖdev.csproj.CoreCompileInputs.cache
+C:\c# eğitim\NetFramework\NetFramework.S6.D3.HashTableÖdev\obj\Debug\NetFramework.S6.D3.HashTableÖdev.exe
+C:\c# eğitim\NetFramework\NetFramework.S6.D3.HashTableÖdev\obj\Debug\NetFramework.S6.D3.HashTableÖdev.pdb

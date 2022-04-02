@@ -1,0 +1,14 @@
+C:\c# eğitim\NetFramework\NetFramework.S6.D2.ArrayListtödev1\bin\Debug\NetFramework.S6.D2.ArrayListtödev1.exe.config
+C:\c# eğitim\NetFramework\NetFramework.S6.D2.ArrayListtödev1\bin\Debug\NetFramework.S6.D2.ArrayListtödev1.exe
+C:\c# eğitim\NetFramework\NetFramework.S6.D2.ArrayListtödev1\bin\Debug\NetFramework.S6.D2.ArrayListtödev1.pdb
+C:\c# eğitim\NetFramework\NetFramework.S6.D2.ArrayListtödev1\obj\Debug\NetFramework.S6.D2.ArrayListtödev1.csprojAssemblyReference.cache
+C:\c# eğitim\NetFramework\NetFramework.S6.D2.ArrayListtödev1\obj\Debug\NetFramework.S6.D2.ArrayListtödev1.csproj.CoreCompileInputs.cache
+C:\c# eğitim\NetFramework\NetFramework.S6.D2.ArrayListtödev1\obj\Debug\NetFramework.S6.D2.ArrayListtödev1.exe
+C:\c# eğitim\NetFramework\NetFramework.S6.D2.ArrayListtödev1\obj\Debug\NetFramework.S6.D2.ArrayListtödev1.pdb
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\NetFramework.S6.D2.ArrayListtödev1\bin\Debug\NetFramework.S6.D2.ArrayListtödev1.exe.config
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\NetFramework.S6.D2.ArrayListtödev1\bin\Debug\NetFramework.S6.D2.ArrayListtödev1.exe
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\NetFramework.S6.D2.ArrayListtödev1\bin\Debug\NetFramework.S6.D2.ArrayListtödev1.pdb
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\NetFramework.S6.D2.ArrayListtödev1\obj\Debug\NetFramework.S6.D2.ArrayListtödev1.csprojAssemblyReference.cache
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\NetFramework.S6.D2.ArrayListtödev1\obj\Debug\NetFramework.S6.D2.ArrayListtödev1.csproj.CoreCompileInputs.cache
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\NetFramework.S6.D2.ArrayListtödev1\obj\Debug\NetFramework.S6.D2.ArrayListtödev1.exe
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\NetFramework.S6.D2.ArrayListtödev1\obj\Debug\NetFramework.S6.D2.ArrayListtödev1.pdb

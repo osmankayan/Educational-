@@ -1,0 +1,14 @@
+C:\c# eğitim\NetFramework\zNetFramework.S12.D2.KalıtımOdev\bin\Debug\zNetFramework.S12.D2.KalıtımOdev.exe.config
+C:\c# eğitim\NetFramework\zNetFramework.S12.D2.KalıtımOdev\bin\Debug\zNetFramework.S12.D2.KalıtımOdev.exe
+C:\c# eğitim\NetFramework\zNetFramework.S12.D2.KalıtımOdev\bin\Debug\zNetFramework.S12.D2.KalıtımOdev.pdb
+C:\c# eğitim\NetFramework\zNetFramework.S12.D2.KalıtımOdev\obj\Debug\zNetFramework.S12.D2.KalıtımOdev.csprojAssemblyReference.cache
+C:\c# eğitim\NetFramework\zNetFramework.S12.D2.KalıtımOdev\obj\Debug\zNetFramework.S12.D2.KalıtımOdev.csproj.CoreCompileInputs.cache
+C:\c# eğitim\NetFramework\zNetFramework.S12.D2.KalıtımOdev\obj\Debug\zNetFramework.S12.D2.KalıtımOdev.exe
+C:\c# eğitim\NetFramework\zNetFramework.S12.D2.KalıtımOdev\obj\Debug\zNetFramework.S12.D2.KalıtımOdev.pdb
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\zNetFramework.S12.D2.KalıtımOdev\bin\Debug\zNetFramework.S12.D2.KalıtımOdev.exe.config
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\zNetFramework.S12.D2.KalıtımOdev\bin\Debug\zNetFramework.S12.D2.KalıtımOdev.exe
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\zNetFramework.S12.D2.KalıtımOdev\bin\Debug\zNetFramework.S12.D2.KalıtımOdev.pdb
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\zNetFramework.S12.D2.KalıtımOdev\obj\Debug\zNetFramework.S12.D2.KalıtımOdev.csprojAssemblyReference.cache
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\zNetFramework.S12.D2.KalıtımOdev\obj\Debug\zNetFramework.S12.D2.KalıtımOdev.csproj.CoreCompileInputs.cache
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\zNetFramework.S12.D2.KalıtımOdev\obj\Debug\zNetFramework.S12.D2.KalıtımOdev.exe
+C:\aa-eğitimler\udemy\c# eğitim-udemy\NetFramework\zNetFramework.S12.D2.KalıtımOdev\obj\Debug\zNetFramework.S12.D2.KalıtımOdev.pdb
